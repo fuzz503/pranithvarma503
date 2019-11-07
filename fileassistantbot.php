@@ -4,10 +4,8 @@
 /**
  * UploaditRoBot
  * Simple Telegram bot to generate download link of files and upload files from URL
- * Based on MadelineProto
- * https://github.com/danog/MadelineProto
- * By TheDarkW3b
- * https://t.me/TheDarkW3b
+ * https://github.com/fuzz503/pranithvarma
+ * By fuzz503
  */
 define('FILES_PATH', __DIR__.'/files');
 define('WEBSERVER_BASE_URL', 'yourdomain.com');
